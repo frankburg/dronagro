@@ -23,5 +23,5 @@ To get this repo running:
 
  `python app.py`.
  
- * Copy the link display to web browser and run.
+ * Copy the link displayed  to web browser and run.
 
