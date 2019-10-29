@@ -25,3 +25,5 @@ To get this repo running:
  
  * Copy the link displayed  to web browser and run.
 
+## Demo
+Launch `dronagro.herokuapp.com` to interact with the live demo.
